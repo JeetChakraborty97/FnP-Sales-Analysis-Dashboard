@@ -1,6 +1,7 @@
 # This GitHub repository contains the following files:  
 
 FnP Dashboard Project.xlsx - The main Excel dashboard file 
+
 customers.csv, orders.csv, products.csv - The three source datasets 
 Ferns and Petals Sales Analysis Problem Statement.pdf - Project requirements document 
 Ferns and Petals Sales Analysis Dashboard Screenshot.png - Visual preview of the 
