@@ -18,12 +18,14 @@ Executive Summary -  Ferns and Petals Sales Analysis Dashboard.pdf
 # FnP-Sales-Analysis-Dashboard
 
 📊 Executive Summary: Ferns and Petals Sales Analysis Dashboard
+
 🎯 Objective
 
 The project analyzes Ferns & Petals’ 2023 sales data with the goal of uncovering insights on revenue, customer behavior, product performance, and seasonal demand patterns. The dashboard addresses ten key business questions outlined in the problem statement
  to guide strategic decisions on product promotion, customer engagement, and operational efficiency.
 
 🔑 Key Insights
+
 1. Overall Revenue & Performance
 
 Total Revenue exceeded expectations with strong order volumes during festival seasons and Valentine’s week.
