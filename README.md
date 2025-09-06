@@ -99,9 +99,7 @@ Expanding into Tier-2 and Tier-3 cities can unlock untapped growth markets.
 Operational improvements in logistics and inventory planning will ensure higher customer satisfaction and repeat purchases.
 
 
-# FnP Sales Analysis Dashboard: Complete Analysis of Key 
-
-Processes and Methods:
+# FnP Sales Analysis Dashboard: Complete Analysis of Key Processes and Methods:
 
 Core Data Processing Methods: 
 
