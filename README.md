@@ -1,5 +1,7 @@
 # This GitHub repository contains the following files:  
 
+<img width="1872" height="743" alt="Ferns   Petals Sales Analysis Dashboard Screenshot" src="https://github.com/user-attachments/assets/78c865fb-6607-4687-b728-d30d9492a7a6" />
+
 FnP Dashboard Project.xlsx - The main Excel dashboard file
 
 customers.csv, orders.csv, products.csv - The three source datasets
